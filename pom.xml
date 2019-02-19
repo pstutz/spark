@@ -125,7 +125,7 @@
     <flume.version>1.6.0</flume.version>
     <zookeeper.version>3.4.6</zookeeper.version>
     <curator.version>2.6.0</curator.version>
-    <okapi.version>0.2.5-SNAPSHOT</okapi.version>
+    <okapi.version>0.2.4</okapi.version>
     <hive.group>org.spark-project.hive</hive.group>
     <!-- Version used in Maven Hive dependency -->
     <hive.version>1.2.1.spark2</hive.version>
